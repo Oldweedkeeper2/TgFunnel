@@ -1,0 +1,13 @@
+.idea
+.venv
+__pycache__
+
+.env
+
+logs
+*.log
+
+sessions/
+*.session
+*.xml
+*.iml
